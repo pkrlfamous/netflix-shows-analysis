@@ -12,7 +12,7 @@ The main objectives of this project are:
 
 ## Data Source
 
-The dataset used in this project is obtained fromhttps://www.kaggle.com/code/vivechanaagrawal/project-7-netflix-shows-dataset/input. It includes information about Netflix shows, such as title, type (TV show or movie), director, cast, country, release year, rating, duration, and listed_in (genre).
+The dataset used in this project is obtained from https://www.kaggle.com/code/vivechanaagrawal/project-7-netflix-shows-dataset/input. It includes information about Netflix shows, such as title, type (TV show or movie), director, cast, country, release year, rating, duration, and listed_in (genre).
 
 ## Methodology
 
